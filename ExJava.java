@@ -1,7 +1,7 @@
-public class ActJava{
+public class ExJava{
 
-public static void main (String[] args){
+public static void main (String [] args){
 
-System.out.println("Hola Jekins, sòc l'Ismael Taouil Sanchez");
+System.out.println("Soc Ismael i estic fent l'examen de la UF2 del M01");
 }
 }
